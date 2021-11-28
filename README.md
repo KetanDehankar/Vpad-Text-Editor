@@ -1,0 +1,2 @@
+# Vpad-Text-Editor
+I have done mini project in my 3rd year. The name is Vpad Text Editor but i have added so many changes in this project like make pdf, extract pdf, speck spell and words and print file . I have used python 3 for this project and sql lite for database. You need to dounload several library which i menshioned in my project using pip command. Note: You need to install anaconda and spyder for making this project and Tkinter for  GUI.
